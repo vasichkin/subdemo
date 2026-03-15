@@ -1,0 +1,9 @@
+[submodule "subdemo-proxy"]
+	path = subdemo-proxy
+	url = git@github.com:vasichkin/subdemo-proxy.git
+[submodule "subdemo-service"]
+	path = subdemo-service
+	url = git@github.com:vasichkin/subdemo-service.git
+[submodule "subdemo-jobs"]
+	path = subdemo-jobs
+	url = git@github.com:vasichkin/subdemo-jobs.git
